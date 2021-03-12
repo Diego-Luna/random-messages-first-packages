@@ -1,6 +1,6 @@
 {
   "name": "random-messages-first-packages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "random mesages",
   "main": "src/index.js",
   "scripts": {
